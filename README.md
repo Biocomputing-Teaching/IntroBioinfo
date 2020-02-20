@@ -46,6 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to my former PhD student Michael A. Johnston for providing a compelling collection of initial examples I have used here.
