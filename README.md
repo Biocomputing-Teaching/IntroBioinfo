@@ -2,7 +2,6 @@
 
 This repository contains the material created or adapted from other (referred) sources for a first introduction to Bioinformatics using Python, R and jupyter notebooks for the 2nd course in the Degree on Biomedical Sciencesat the Universitat Internacional de Catalunya.
 
-Jordi Villà-Freixa, 2019-2020
 
 ## Getting Started
 
@@ -34,9 +33,14 @@ osascript -e "${the_script}${variable}\""
 ```
 ensuring you use `bash` as the interpreter and you mark the "pass as arguments" option.
 
+## Contents of this course
+
+Navigate through the different notebooks in this repository for a thorough (and constantly updated) collection of tips and hints to get into Bioinformatics with `Python` in a simple manner.
+* [First General Introduction to Python for neophytes](BasicPythonIntro.ipynb)
+
 ## Authors
 
-* **Jordi Villà-Freixa** - *Initial work* - [JordiVillaFreixa](https://github.com/JordiVillaFreixa)
+* **Jordi Villà-Freixa** - *Initial work* - [JordiVillaFreixa](https://github.com/JordiVillaFreixa), 2020
 
 See also the list of [contributors](https://github.com/JordiVillaFreixa/IntroBioinfo/contributors) who participated in this project.
 
@@ -46,6 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to my former PhD student Michael A. Johnston for providing a compelling collection of initial examples I have used here.
