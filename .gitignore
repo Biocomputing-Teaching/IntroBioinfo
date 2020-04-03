@@ -11,3 +11,8 @@ blast.ipynb
 figures/q.png
 blast.ipynb
 test.txt
+*.pdb
+*.fasta
+*.fastq
+*.gz
+*.xml
