@@ -16,3 +16,6 @@ test.txt
 *.fastq
 *.xml
 HomologyModellingCCNI.ipynb
+data/.go-basic.obo.icloud
+*.icloud
+*.icloud
