@@ -1,24 +1,12 @@
-*.swp
-.DS_Store
-.ipynb_checkpoints
-GO:0097192-lineage.png
-GO Tutorial in Python - Solutions.ipynb
-GO Tutorial in Python - Solutions.ipynb
-files/alltargets.fasta
-files/H0980_blast.xml
-files/T0951_blast.xml
-blast.ipynb
-figures/q.png
-blast.ipynb
-test.txt
+
+*.bak
 *.pdb
-*.fasta
-*.fastq
-*.xml
-HomologyModellingCCNI.ipynb
 *.gz
 *.tbi
 *.bam
 *.bai
-files/Untitled.ipynb
+*.fasta
+*.fastq
+.DS_Store
+*.xml
 Untitled.ipynb
