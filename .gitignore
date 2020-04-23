@@ -16,3 +16,9 @@ test.txt
 *.fastq
 *.xml
 HomologyModellingCCNI.ipynb
+*.gz
+*.tbi
+*.bam
+*.bai
+files/Untitled.ipynb
+Untitled.ipynb
